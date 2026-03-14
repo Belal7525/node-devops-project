@@ -56,6 +56,9 @@ Redis is an in-memory key-value store used for caching.
 ### How to Install  Redis
 Install Redis on Linux using sudo apt install redis-server.
 
+### Environment Variables
+Create a `.env` file in the project root with the following content:
+
 ## How to Run the Project
 
 Run the following command to start all services:
