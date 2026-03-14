@@ -19,8 +19,7 @@ Docker Compose
 
 ## Project Structure
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8493e9f3-bced-46e8-bdba-99257aa3a8da" />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bff06a97-8704-4706-8c6c-277275a39bfa" />
 
 ## Ports Used
 
@@ -72,6 +71,6 @@ docker compose up --build
 
 ---
 
-## Conclusion
+# Conclusion
 
 This project shows how a Node.js application can be containerized using Docker and Docker Compose with MongoDB for storage and Redis for caching. It provides a simple, scalable, and portable backend setup.
