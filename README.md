@@ -19,6 +19,9 @@ Docker Compose
 
 ## Project Structure
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8493e9f3-bced-46e8-bdba-99257aa3a8da" />
+
+
 ## Ports Used
 
 | Service             | Port  |
@@ -29,24 +32,30 @@ Docker Compose
 ## 1. Node.js
 
 ## Introduction:
+Node.js is a JavaScript runtime used to build scalable backend applications.
 
 
 ## Requirements:
+Node.js and npm installed on Linux.
 
 ## How to Install Node.js
+Install using sudo apt install nodejs npm.
 
 ## 2. MongoDB 
 
 ## Introduction
+MongoDB is a NoSQL database used to store application data.
 
 ## How to Install MongoDB 
-
+Install MongoDB on Linux using sudo apt install mongodb.
 
 ## 3. Redis
 
 ## Introduction
+Redis is an in-memory key-value store used for caching.
 
 ## How to Install  Redis
+Install Redis on Linux using sudo apt install redis-server.
 
 ## Endpoints
 
